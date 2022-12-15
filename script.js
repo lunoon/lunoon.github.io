@@ -35,15 +35,15 @@
          ['5', 'Concept/Doku Impl.', 'dev',
          new Date(2022, 8, 9), new Date(2022, 9, 30), null, 100, '30'],
          ['6', 'Impl. Prototyp', 'dev',
-         new Date(2022, 8, 16), new Date(2022, 9, 30), null, 99, '30'],
+         new Date(2022, 8, 16), new Date(2022, 9, 30), null, 100, '30'],
          ['7', 'Auswertung der Konzeptionierung/Impl.', 'dev',
-         new Date(2022, 10, 1), new Date(2022, 10, 14), null, 90, '30'],
+         new Date(2022, 10, 1), new Date(2022, 10, 14), null, 100, '30'],
          ['8', 'Future Work und Zusammenfassung', 'outlook',
-         new Date(2022, 10, 15), new Date(2022, 10, 31), null, 60, '21,31,41,5,6,7'],
+         new Date(2022, 10, 15), new Date(2022, 10, 31), null, 100, '21,31,41,5,6,7'],
          ['9', 'Buffer', 'extra',
-         new Date(2022, 10, 23), new Date(2022, 12, 14), null, 0, null],
+         new Date(2022, 10, 23), new Date(2022, 12, 14), null, 100, null],
          ['10', 'Bibliographie', 'source',
-         new Date(2022, 4, 25), new Date(2022, 5, 2), null, 0, null]
+         new Date(2022, 4, 25), new Date(2022, 5, 2), null, 100, null]
       ]);
 
       var options = {
